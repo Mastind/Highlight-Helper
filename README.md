@@ -3,6 +3,8 @@
 
 A macOS screen reading highlight bar tool that helps you focus on the current line while reading documents.
 
+Born out of personal necessity as someone with ADHD, this tool brings the familiar experience of physical reading guides to the digital world, making screen reading more manageable and less overwhelming.
+
 ## ✨ Features
 
 - 🎯 **Smart Tracking** - Transparent highlight bar follows your mouse cursor
@@ -21,7 +23,7 @@ A macOS screen reading highlight bar tool that helps you focus on the current li
 
 ### Download Pre-built App
 
-1. Download the latest release from 
+1. Download the latest release from [Release](https://github.com/Mastind/Highlight-Helper/releases/tag/v1.0.0)
 2. Unzip the downloaded file
 3. Drag `HighlightHelper.app` to your Applications folder
 4. Double-click to launch
@@ -105,6 +107,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👏 Acknowledgments
 
+- Claude (Anthropic) - For the patient guidance and coding assistance throughout this project. As someone new to Swift development, I couldn't have built this without the step-by-step help and explanations.
 - Inspired by physical reading guides and book highlighters
 - Built with Swift and SwiftUI
 
