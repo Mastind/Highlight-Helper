@@ -111,6 +111,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by physical reading guides and book highlighters
 - Built with Swift and SwiftUI
 
+## 📸 Screenshots
+#### Main Interface
+![Highlight Bar in Action](https://github.com/Mastind/Highlight-Helper/blob/main/Screenshot-Usage.png)
+
+#### Settings Window
+![Settings Window](https://github.com/Mastind/Highlight-Helper/blob/main/Screeshot-Settings.png)
+
+#### App Icon
+<img src="https://github.com/Mastind/Highlight-Helper/blob/main/HighlightHelperAppIcon.png" width="400">
+
 ---
 
 **Made with ❤️ for better reading experience**
