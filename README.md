@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👏 Acknowledgments
 
-- Claude (Anthropic) - For the patient guidance and coding assistance throughout this project. As someone new to Swift development, I couldn't have built this without the step-by-step help and explanations.
+- Claude (Anthropic) - For the patient guidance and coding assistance throughout this project. As someone new to Swift development, I couldn't have built this without the step-by-step help and explanations. (Yeah, Claude himself wrote this sentence.)
 - Inspired by physical reading guides and book highlighters
 - Built with Swift and SwiftUI
 
