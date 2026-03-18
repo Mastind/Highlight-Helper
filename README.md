@@ -23,10 +23,15 @@ Born out of personal necessity as someone with ADHD, this tool brings the famili
 
 ### Download Pre-built App
 
-1. Download the latest release from [Release](https://github.com/Mastind/Highlight-Helper/releases/tag/v1.0.0)
+1. Download the latest release from [Release](https://github.com/Mastind/Highlight-Helper/releases/tag/v1.0.1)
 2. Unzip the downloaded file
 3. Drag `HighlightHelper.app` to your Applications folder
 4. Double-click to launch
+
+If macOS warns that the app is from an unidentified developer:
+1. Right-click `HighlightHelper.app`
+2. Choose **Open**
+3. Click **Open** again
 
 ### First Launch Setup
 
@@ -104,6 +109,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - The app requires accessibility permissions to track mouse position globally
 - On first launch, you may need to manually restart the app after granting permissions
+- Depending on the build, keyboard shortcuts may only work while the app is active
+- Unsigned builds may trigger a macOS security warning on first launch
 
 ## 👏 Acknowledgments
 
