@@ -59,6 +59,8 @@ On first launch, you'll need to grant accessibility permissions:
 
 ### Settings
 
+Use the **menu bar icon → Settings** to open the settings window.
+
 Customize your highlight bar:
 
 - **Color** - Choose any color you like
@@ -66,6 +68,10 @@ Customize your highlight bar:
 - **Height** - Set from 20px to 150px
 
 All settings are automatically saved and restored on next launch.
+
+> [!NOTE]
+> In the current version, **HighlightHelper → Settings...** from the standard macOS app menu may not work correctly.
+> If that happens, please open settings from the **menu bar icon** instead.
 
 ## 🛠️ Development
 
@@ -111,6 +117,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - On first launch, you may need to manually restart the app after granting permissions
 - Depending on the build, keyboard shortcuts may only work while the app is active
 - Unsigned builds may trigger a macOS security warning on first launch
+- The standard macOS app menu entry **HighlightHelper → Settings...** may not open the settings window correctly in the current version. Please use the **menu bar icon → Settings** entry instead, which works reliably.
 
 ## 👏 Acknowledgments
 
